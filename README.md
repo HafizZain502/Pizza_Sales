@@ -1,6 +1,6 @@
 # Pizza_Sales
 Overview
-This project involves analyzing pizza sales data using SQL queries to derive key performance indicators (KPIs) and trends. The provided SQL queries extract valuable insights from the pizza sales database, helping you understand various aspects of the business, such as revenue, order patterns, popular pizza categories and sizes, and top/bottom selling pizzas. This README provides a brief description of each query and its purpose.
+Through an extensive analysis of pizza sales data, we've excavated valuable insights into the operational dynamics of a pizza enterprise. Employing SQL queries, we've extracted vital KPIs and trends, subsequently translating them into visually engaging interactive dashboards within Tableau and Excel. This meticulous examination offers a holistic panorama of the company's fiscal vitality, consumer tendencies, and product efficacy.
 
 A. Key Performance Indicators (KPIs)
 Total Revenue:
